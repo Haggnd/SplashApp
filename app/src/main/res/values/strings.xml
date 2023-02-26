@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MySplash</string>
+    <string name="usuario_label">Usuario</string>
+    <string name="password_label">Password</string>
+    <string name="olvcontraseña">Olvidé mi contraseña</string>
+    <string name="login">Sign In</string>
+    <string name="registro">Registrarse</string>
+    <string name="email">email</string>
+    <string name="conocer">¿Cómo nos conoció?</string>
+    <string name="amigos">amigos</string>
+    <string name="trabajo">trabajo</string>
+    <string name="publicidad">publicidad</string>
+    <string name="hombre">hombre</string>
+    <string name="mujer">mujer</string>
+    <string name="genero">Genero</string>
+    <string name="fec_nac">Fecha de nacimiento</string>
+    <string name="numero">Número celular</string>
+    <string name="in">55</string>
+    <string name="inicio_sesion">Iniciar sesión</string>
+    <string name="morse">M O R S E</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="region">Región</string>
+    <string name="name">Nombre</string>
+    <string name="pick">pick</string>
+    <string name="agregar">Agregar contraseña</string>
+    <string name="cs">Cerrar Sesión</string>
+    <string name="w">Welcome to the jungle</string>
+    <string name="Recuperar">Recuperar</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
